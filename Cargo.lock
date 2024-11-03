@@ -3166,8 +3166,6 @@ dependencies = [
 [[package]]
 name = "system-tray"
 version = "0.2.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "82a053bfb84b11f5eb8655a762ba826a2524d02a2f355b0fd6fce4125272f2e0"
 dependencies = [
  "serde",
  "thiserror",
